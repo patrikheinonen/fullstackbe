@@ -1,0 +1,20 @@
+{
+  "name": "fullstackbe",
+  "version": "1.0.0",
+  "description": "full stack be git repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrik Heinonen",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemo": "^1.0.0",
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
